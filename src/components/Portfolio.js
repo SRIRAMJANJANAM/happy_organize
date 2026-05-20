@@ -38,7 +38,7 @@ function Portfolio() {
       location: "Kondapur Kitchen",
       quote: "My masala shelf alone — I can't tell you the difference. Everything I need, exactly where I reach for it.",
       time: "5 hours, full kitchen reorganisation",
-      image: "/images/celebrities/kitchen1.png"
+      image: "/images/celebrities/k1.png"
     },
     {
       id: 5,
