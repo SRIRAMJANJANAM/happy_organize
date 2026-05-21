@@ -78,7 +78,7 @@ function Home() {
     },
     {
       n: "04",
-      title: "Move-In & Move-Out Setup",
+      title: "New Home Move-in setup",
       body: "Starting fresh in a new home or shifting out? Our move-in and move-out organising service handles unpacking, space planning, wardrobe setup, kitchen setup, storage labelling, and home arrangement so your new house feels settled from day one.",
       img: "images/celebrities/movein.png",
       link: "/services#move",
@@ -177,12 +177,12 @@ function Home() {
 
     setMetaTag(
       "description",
-      "Happy Organize.com offers professional home organising, home decluttering, kitchen organising, wardrobe organising, pantry setup, new home setup, move-in organising, and storage solutions in Hyderabad."
+      "Happy Organize.com offers professional home organising, home decluttering, kitchen organising, wardrobe organising, pantry setup, new home setup, New Home Move-in setup organising, and storage solutions in Hyderabad."
     );
 
     setMetaTag(
       "keywords",
-      "Happy Organize, Happy Organize.com, home organising Hyderabad, home organizing Hyderabad, home decluttering Hyderabad, professional organiser Hyderabad, kitchen organising, wardrobe organising, pantry organisation, new home setup Hyderabad, move-in organising, full home decluttering, storage solutions, home organisation services"
+      "Happy Organize, Happy Organize.com, home organising Hyderabad, home organizing Hyderabad, home decluttering Hyderabad, professional organiser Hyderabad, kitchen organising, wardrobe organising, pantry organisation, new home setup Hyderabad, New Home Move-in setup organising, full home decluttering, storage solutions, home organisation services"
     );
 
     setMetaTag("robots", "index, follow");
@@ -215,7 +215,7 @@ function Home() {
       url: "https://happyorganize.com",
       image: "https://happyorganize.com/images/celebrities/hero.png",
       description:
-        "Professional home organising, decluttering, kitchen organising, wardrobe organising, pantry setup, new home setup, move-in organising, and storage solutions in Hyderabad.",
+        "Professional home organising, decluttering, kitchen organising, wardrobe organising, pantry setup, new home setup, New Home Move-in setuporganising, and storage solutions in Hyderabad.",
       areaServed: {
         "@type": "City",
         name: "Hyderabad",
@@ -227,7 +227,7 @@ function Home() {
         "Wardrobe Organising",
         "Pantry Organisation",
         "New Home Setup",
-        "Move-In Organising",
+        "New Home Move-in setup",
         "Storage Solutions",
       ],
       founder: {
