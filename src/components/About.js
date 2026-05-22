@@ -654,7 +654,7 @@ function About() {
                   <circle cx="12" cy="12" r="10" />
                   <polyline points="12 6 12 12 16 14" />
                 </svg>
-                <span>HOW WE WORK & PRICING</span>
+                <span>HOW WE WORK</span>
               </div>
 
               <h2 className="section-title centered">
