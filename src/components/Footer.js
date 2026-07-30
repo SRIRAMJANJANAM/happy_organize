@@ -304,7 +304,7 @@ function Footer() {
 
       <style jsx>{`
         :root {
-          --primary: #b23a48;
+          --primary: #be404f;
           --secondary: #d97a86;
           --accent: #7a1e2c;
           --bg: #fff1f3;
