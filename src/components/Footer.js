@@ -290,7 +290,7 @@ function Footer() {
             <div className="developed-by">
               <span className="dev-text">Developed by</span>
               <a
-                href="https://smyvisiontechnologies.vercel.app"
+                href="https://smyvisiontechnologies.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="dev-link"
