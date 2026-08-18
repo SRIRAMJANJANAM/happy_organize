@@ -97,7 +97,7 @@ function Contact() {
       `Area: ${formData.area}%0A` +
       `I need help with: ${formData.helpWith}%0A` +
       (formData.message ? `Additional message: ${formData.message}%0A%0A` : '%0A') +
-      `I'd like to book a free 15-minute consultation call.%0A%0A` +
+      `I'd like to get started with organizing my space.%0A%0A` +
       `Sent from Happy Organize website`;
 
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${text}`;
@@ -397,7 +397,7 @@ function Contact() {
               {/* Form Side */}
               <div className="form-side animate-slide-left">
                 <div className="form-wrapper">
-                  <h2 className="form-title">Book a Free 15-Minute Call</h2>
+                  <h2 className="form-title"> Your First Step to a Organized Home</h2>
 
                   {submitted ? (
                     <div className="success-message">
