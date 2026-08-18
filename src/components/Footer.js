@@ -130,7 +130,7 @@ function Footer() {
               onClick={handleFooterNavigation}
               className="btn btn-cta btn-hover-effect animate-slide-up"
             >
-              <span>Book a Free Consultation</span>
+              <span>GET STARTED</span>
               <svg
                 className="btn-icon"
                 width="20"
@@ -537,7 +537,7 @@ function Footer() {
 
         .footer-description em,
         .footer-description .telugu-text {
-          color: #d97a86;
+          color: #ffffff;
           font-style: italic;
         }
 
